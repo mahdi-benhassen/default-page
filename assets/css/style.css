@@ -209,6 +209,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     background:url(../images/welcome-hero/welcome-banner.jpg)no-repeat;
     background-position: center;
     background-size: cover;
+    transform: scale(0.8); /* Adjust the scale value as needed */
     z-index: 1;
 }
 .welcome-hero:before {
