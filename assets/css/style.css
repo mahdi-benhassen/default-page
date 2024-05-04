@@ -209,7 +209,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     background:url(../images/welcome-hero/welcome-banner.jpg)no-repeat;
     background-position: center;
     background-size: cover;
-    transform: scale(0.8); /* Adjust the scale value as needed */
     z-index: 1;
 }
 .welcome-hero:before {
@@ -217,8 +216,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     content: "";
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     background: rgba(42,45,84,.60);
 }
 .header-area{position: absolute;top:0;left:0;width: 100%;z-index: 99;}
